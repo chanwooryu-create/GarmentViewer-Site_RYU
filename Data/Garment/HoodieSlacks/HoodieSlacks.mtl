@@ -1,0 +1,124 @@
+newmtl FABRIC_2_FRONT_2323
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka HoodieSlacks_diffuse.png
+map_Kd HoodieSlacks_diffuse.png
+newmtl shoes_rSG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.029266 0.029266 0.029266
+Ns 5.660000
+illum 2
+d 1.000000
+map_Ka Female_Sneaker_01.jpg
+map_Kd Female_Sneaker_01.jpg
+newmtl shoes_rSG3
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Ka transparency.png
+map_Kd transparency.png
+map_d transparency.png
+newmtl shoes_rSG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.029266 0.029266 0.029266
+Ns 5.660000
+illum 2
+d 1.000000
+map_Ka Female_Sneaker_01.jpg
+map_Kd Female_Sneaker_01.jpg
+newmtl shoes_rSG3
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Ka transparency.png
+map_Kd transparency.png
+map_d transparency.png
+newmtl Mara:face3
+Ka 0.257132 0.253856 0.244023
+Kd 1.000000 0.987259 0.949020
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+newmtl Mara:body4
+Ka 0.257132 0.253856 0.244023
+Kd 1.000000 0.987259 0.949020
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+newmtl Mara:arm3
+Ka 0.257132 0.253856 0.244023
+Kd 1.000000 0.987259 0.949020
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+newmtl Mara:leg3
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.480000 0.480000 0.480000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl Mara:eye2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.117000 0.117000 0.117000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka transparency.png
+map_Kd transparency.png
+map_d transparency.png
+newmtl Mara:eye2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.117000 0.117000 0.117000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka transparency.png
+map_Kd transparency.png
+map_d transparency.png
+newmtl Mara:skin_14:skin_13:skin_11:skin_10:pose:pose:eyelash1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.050407 0.050407 0.050407
+Ns 11.999997
+illum 2
+d 1.000000
+map_Ka transparency.png
+map_Kd transparency.png
+map_d transparency.png
+newmtl Mara:skin_14:skin_13:skin_11:skin_10:pose:pose:eyelash1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.050407 0.050407 0.050407
+Ns 11.999997
+illum 2
+d 1.000000
+map_Ka transparency.png
+map_Kd transparency.png
+map_d transparency.png
+newmtl Mara:tooth2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.050407 0.050407 0.050407
+Ns 11.999997
+illum 2
+d 1.000000
+map_Ka transparency.png
+map_Kd transparency.png
+map_d transparency.png

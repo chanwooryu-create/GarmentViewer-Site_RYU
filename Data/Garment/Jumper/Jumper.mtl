@@ -1,0 +1,8 @@
+newmtl Rib_2X2_468gsm_FRONT_2368
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ns 28.763239
+illum 2
+map_Ka Jumper_diffuse.png
+map_Kd Jumper_diffuse.png
