@@ -1,6 +1,6 @@
 # Garment Viewer
 
-웹 기반 3D 의복 뷰어. CLO 3D 등에서 만든 의복 모델을 브라우저에서 보고, 색상·원단·배경을 바꿔보고, 휴대폰에서는 AR로 실제 공간에 배치해 볼 수 있습니다.
+웹 기반 3D 의복 뷰어. CLO 3D 등에서 만든 의복 모델을 브라우저에서 보고, 색상·원단·배경을 바꿔보고, 모바일에서는 AR로 실제 공간에 배치해 볼 수 있습니다.
 
 🔗 **데모:** https://chanwooryu-create.github.io/GarmentViewer-Site_RYU/
 
